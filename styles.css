@@ -3,6 +3,11 @@
     font-family: Arial;
   }
 
+  h1{
+    color: gray;
+    text-align: center;
+  }
+
   body {
     background-color: hsl(240, 3%, 7%);
     display: flex;
